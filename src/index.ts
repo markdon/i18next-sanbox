@@ -33,8 +33,8 @@ const backendOptions: i18nextFsBackend.i18nextFsBackendOptions = {
 const initOptions: InitOptions = {
   debug: true,
   lng: "en-US",
-  ns: ["manifest"],
-  defaultNS: "manifest",
+  ns: ["default"],
+  defaultNS: "default",
   preload: locales,
   saveMissing: true,
   backend: backendOptions,

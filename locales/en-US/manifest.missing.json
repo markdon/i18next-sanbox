@@ -1,9 +1,0 @@
-{
-  "description": "description",
-  "addin": {
-    "description": "addin.description"
-  },
-  "button": {
-    "addMeeting": "button.addMeeting"
-  }
-}
